@@ -8,5 +8,5 @@ public abstract class Empresa {
     }
 
     public abstract void contratarFuncionario(String nome, double salario);
-    public abstract void demitirFuncionario(String nome)
+    public abstract void demitirFuncionario(String nome);
 }
